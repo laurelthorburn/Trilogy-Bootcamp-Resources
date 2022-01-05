@@ -7,7 +7,7 @@ Welcome. This is a compiled list of resources I used during my trilogy bootcamp 
 Coming Soon
 </details>
 
-<details open>
+<details closed>
  <summary>Week 2:</summary>
   
 Coming Soon
