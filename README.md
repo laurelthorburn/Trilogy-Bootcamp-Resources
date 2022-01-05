@@ -4,7 +4,7 @@ Welcome. This is a compiled list of resources I used during my trilogy bootcamp 
 <details closed>
  <summary>Week One: HTML/CSS</summary>
   
-| First Header  | Second Header |
+| Assigned  | Recommended |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
