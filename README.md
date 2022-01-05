@@ -28,7 +28,9 @@ Coming Soon
 <details closed>
  <summary>Week Four: Web APIs</summary>
   
-Coming Soon
+<details closed>
+ <summary> Homework</summary>
+ </details>
 </details>
 
 <details closed>
