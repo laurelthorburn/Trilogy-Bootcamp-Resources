@@ -14,55 +14,55 @@ Trilogy provided readings are broken down into two categories, assigned and reco
 </details>
 
 <details closed>
- <summary>Week Two</summary>
+ <summary>Week Two: Advanced CSS</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Three</summary>
+ <summary>Week Three: JavaScript</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Four</summary>
+ <summary>Week Four: Web APIs</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Five</summary>
+ <summary>Week Five: Third Party APIs</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Six</summary>
+ <summary>Week Six: Server Side APIs</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Seven</summary>
+ <summary>Week Seven: Project 1</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Eight</summary>
+ <summary>Week Eight: Project 1</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Nine</summary>
+ <summary>Week Nine: NodeJS</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Ten</summary>
+ <summary>Week Ten: OOP</summary>
   
 Coming Soon
 </details>
@@ -74,43 +74,43 @@ Coming Soon
 </details>
 
 <details closed>
- <summary>Week Twelve</summary>
+ <summary>Week Twelve: Express</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Thirteen</summary>
+ <summary>Week Thirteen: SQL</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Fourteen</summary>
+ <summary>Week Fourteen: ORM</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Fifteen</summary>
+ <summary>Week Fifteen: Project 2</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Sixteen</summary>
+ <summary>Week Sixteen: Project 2</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Seventeen</summary>
+ <summary>Week Seventeen: Computer Science</summary>
   
 Coming Soon
 </details>
 
 <details closed>
- <summary>Week Eighteen</summary>
+ <summary>Week Eighteen: NoSQL</summary>
   
 Coming Soon
 </details>
