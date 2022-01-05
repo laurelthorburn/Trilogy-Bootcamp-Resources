@@ -1,7 +1,7 @@
 # Trilogy-Bootcamp-Resources
 Welcome. This is a compiled list of resources I used during my trilogy bootcamp through the University of Denver. Below you will find resources provided by the bootcamp and my own personal resources that helped me succeed.
 
-Trilogy provided readings are broken down into two categories, assigned and recommended.  The assigned readings were provided to students via gitlab and recommended readings were sent by the university on a weekly basis.  Below these tables you will find links to readings and videos I found useful in learning that week's material and completing the assigned homework.  
+Broken link? Resource I MUST add? Feel free to comment/contribrute 💖👩🏻‍💻
 
 <details closed>
  <summary>Week One: HTML/CSS</summary>
