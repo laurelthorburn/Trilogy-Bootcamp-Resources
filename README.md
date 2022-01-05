@@ -18,6 +18,8 @@ Broken link? Resource I MUST add? Feel free to comment/contribrute 💖👩🏻�
  
 </details>
 
+<hr>
+
 <details closed>
  <summary>Week Two: Advanced CSS</summary>
   
