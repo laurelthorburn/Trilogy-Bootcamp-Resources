@@ -2,9 +2,13 @@
 Welcome. This is a compiled list of resources I used during my trilogy bootcamp through the University of Denver. Below you will find resources provided by the bootcamp and my own personal youtube videos, stack overflow, and readings that helped me succeed.
 
 <details closed>
- <summary>Week One</summary>
+ <summary>Week One: HTML/CSS</summary>
   
-Coming Soon
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+ 
 </details>
 
 <details closed>
