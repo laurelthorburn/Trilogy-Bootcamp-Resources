@@ -6,11 +6,7 @@ Broken link? Resource I MUST add? Feel free to comment/contribrute 💖👩🏻�
 <details closed>
  <summary>Week One: HTML/CSS</summary>
   
-| Assigned  | Recommended |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
- 
+ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
