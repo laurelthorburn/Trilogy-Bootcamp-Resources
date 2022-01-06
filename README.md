@@ -43,6 +43,7 @@ Coming Soon
  <hr>
 
 </details>
+<hr>
 
 <details closed>
  <summary>Week Five: Third Party APIs</summary>
@@ -77,6 +78,7 @@ Coming Soon
   
 Coming Soon
 </details>
+<hr>
 
 <details closed>
  <summary>Week Ten: OOP</summary>
