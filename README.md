@@ -27,7 +27,8 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 [Professional Portfolio](https://github.com/laurelthorburn/LaurelThorburnPortfolio)
-  
+  [Horiseon Accessibility Project](https://github.com/laurelthorburn/Horiseon-Accessibility-Project)
+
  </details>
 </details>
 <hr>
