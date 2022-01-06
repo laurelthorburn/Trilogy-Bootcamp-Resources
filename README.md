@@ -26,8 +26,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
+
 [Professional Portfolio](https://github.com/laurelthorburn/LaurelThorburnPortfolio)
-  [Horiseon Accessibility Project](https://github.com/laurelthorburn/Horiseon-Accessibility-Project)
 
  </details>
 </details>
@@ -40,7 +40,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Password Generator]()
   
  </details>
 </details>
@@ -54,7 +55,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Code Quiz]()
   
  </details>
  <hr>
@@ -70,7 +72,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Day Planner]()
   
  </details>
 </details>
@@ -84,7 +87,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Weather Dashboard]()
   
  </details>
 </details>
@@ -98,7 +102,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Project 1]()
   
  </details>
 </details>
@@ -112,7 +117,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Updated Portfolio Page]()
   
  </details>
 </details>
@@ -126,7 +132,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Good README Generator]()
   
  </details>
 </details>
@@ -140,7 +147,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Team Profile Generator]()
   
  </details>
 </details>
@@ -154,7 +162,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Note Taker]()
   
  </details>
 </details>
@@ -168,7 +177,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Employee Management System]()
   
  </details>
 </details>
@@ -182,7 +192,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[E-Commerce Back End]()
   
  </details>
 </details>
@@ -196,7 +207,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Tech Blog]()
   
  </details>
 </details>
@@ -210,7 +222,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Project 2]()
   
  </details>
 </details>
@@ -223,7 +236,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Updated Portfolio Page #2]()
   
  </details>
 </details>
@@ -237,7 +251,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Regex Tutorial]()
   
  </details>
 </details>
@@ -250,7 +265,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Social Network API]()
   
  </details>
 </details>
@@ -264,7 +280,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Text Editor]()
   
  </details>
 </details>
@@ -278,7 +295,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[React Portfolio]()
   
  </details>
 </details>
@@ -292,7 +310,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Book Search Engine]()
   
  </details>
 </details>
@@ -305,7 +324,8 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Redux Store]()
   
  </details>
 </details>
@@ -319,21 +339,25 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+
+[Project 3]()
   
  </details>
 </details>
 <hr>
 
 <details closed>
- <summary>Week Twenty-Four</summary>
+ <summary>Extra: Github README's</summary>
   
  ENTER STUFF HERE
  
- <details closed>
- <summary> Homework Resources</summary>
- Laurel's Homework:
+</details>
+<hr>
+
+<details closed>
+ <summary>Extra: Git Commands</summary>
   
- </details>
+ ENTER STUFF HERE
+ 
 </details>
 <hr>
