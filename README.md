@@ -361,3 +361,11 @@ ENTER STUFF HERE
  
 </details>
 <hr>
+
+<details closed>
+ <summary>Extra: Algorithms</summary>
+  
+ ENTER STUFF HERE
+ 
+</details>
+<hr>
