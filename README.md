@@ -13,7 +13,9 @@ Broken link? Resource I MUST add? Feel free to comment/contribrute 💖👩🏻�
  
  
  <details closed>
- <summary> Homework</summary>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
  </details>
  
 </details>
@@ -23,22 +25,39 @@ Broken link? Resource I MUST add? Feel free to comment/contribrute 💖👩🏻�
 <details closed>
  <summary>Week Two: Advanced CSS</summary>
   
-Coming Soon
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Three: JavaScript</summary>
   
-Coming Soon
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Four: Web APIs</summary>
   
-<details closed>
- <summary> Homework</summary>
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
  </details>
  <hr>
 
@@ -48,139 +67,275 @@ Coming Soon
 <details closed>
  <summary>Week Five: Third Party APIs</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Six: Server Side APIs</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Seven: Project 1</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Eight: Project 1</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Nine: NodeJS</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Ten: OOP</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Eleven</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Twelve: Express</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Thirteen: SQL</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Fourteen: ORM</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Fifteen: Project 2</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Sixteen: Project 2</summary>
   
-Coming Soon
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Seventeen: Computer Science</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Eighteen: NoSQL</summary>
   
-Coming Soon
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Nineteen</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Twenty</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Twenty-One</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Twenty-Two</summary>
   
-Coming Soon
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Twenty-Three</summary>
   
-Coming Soon
+  
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
 
 <details closed>
  <summary>Week Twenty-Four</summary>
   
-Coming Soon
+ ENTER STUFF HERE
+ 
+ <details closed>
+ <summary> Homework Resources</summary>
+ Laurel's Homework:
+  
+ </details>
 </details>
 <hr>
