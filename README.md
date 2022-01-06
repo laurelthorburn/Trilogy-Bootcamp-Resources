@@ -12,6 +12,8 @@ ENTER STUFF HERE
  <summary> Homework Resources</summary>
  [Laurel's Homework!](https://github.com/laurelthorburn/Horiseon-Accessibility-Project)
   
+  Want to see my resume? [Click here!](https://drive.google.com/file/d/1Yo_9a2iOZ0rsJ-veGJPgxC8EfAvDOjDc/view?usp=sharing)
+  
  </details>
  
 </details>
