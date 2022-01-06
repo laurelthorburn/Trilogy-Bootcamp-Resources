@@ -26,7 +26,7 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+[Professional Portfolio](https://github.com/laurelthorburn/LaurelThorburnPortfolio)
   
  </details>
 </details>
