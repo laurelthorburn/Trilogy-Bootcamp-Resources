@@ -10,7 +10,7 @@ ENTER STUFF HERE
  
  <details closed>
  <summary> Homework Resources</summary>
- Laurel's Homework:
+ [Laurel's Homework](https://github.com/laurelthorburn/Horiseon-Accessibility-Project)
   
  </details>
  
