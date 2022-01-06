@@ -41,7 +41,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Password Generator]()
+[Password Generator](https://github.com/laurelthorburn/Password-Generator)
   
  </details>
 </details>
@@ -56,7 +56,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Code Quiz]()
+[Code Quiz](https://github.com/laurelthorburn/Code-Quiz)
   
  </details>
  <hr>
@@ -73,7 +73,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Day Planner]()
+[Day Planner](https://github.com/laurelthorburn/Work-Planner)
   
  </details>
 </details>
@@ -88,7 +88,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Weather Dashboard]()
+[Weather Dashboard](https://github.com/laurelthorburn/Weather-Dashboard)
   
  </details>
 </details>
@@ -103,7 +103,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Project 1]()
+[Project 1](https://github.com/laurelthorburn/Live-The-Movie)
   
  </details>
 </details>
@@ -118,7 +118,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Updated Portfolio Page]()
+[Updated Portfolio Page](https://github.com/laurelthorburn/LaurelThorburn-UpdatedPortfolio)
   
  </details>
 </details>
@@ -133,7 +133,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Good README Generator]()
+[Good README Generator](https://github.com/laurelthorburn/ReadMe)
   
  </details>
 </details>
@@ -148,7 +148,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Team Profile Generator]()
+[Team Profile Generator](https://github.com/laurelthorburn/Team-Profile-Generator)
   
  </details>
 </details>
@@ -163,7 +163,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Note Taker]()
+[Note Taker](https://github.com/laurelthorburn/Note-Taker)
   
  </details>
 </details>
@@ -178,7 +178,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Employee Management System]()
+[Employee Management System](https://github.com/laurelthorburn/Employee-Tracker)
   
  </details>
 </details>
@@ -193,7 +193,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[E-Commerce Back End]()
+[E-Commerce Back End](https://github.com/laurelthorburn/E-Commerce-Back-End)
   
  </details>
 </details>
@@ -208,7 +208,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Tech Blog]()
+[Tech Blog](https://github.com/laurelthorburn/Tech-Blog)
   
  </details>
 </details>
@@ -223,7 +223,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Project 2]()
+[Project 2](https://github.com/laurelthorburn/DONUT-FORGET-TO-REVIEW)
   
  </details>
 </details>
@@ -237,7 +237,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Updated Portfolio Page #2]()
+[Updated Portfolio Page #2](https://github.com/laurelthorburn/LaurelThorburn-UpdatedPortfolio)
   
  </details>
 </details>
@@ -252,7 +252,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Regex Tutorial]()
+[Regex Tutorial](https://gist.github.com/laurelthorburn/9e8edf997bdd68dcaaae01bb20107e9a)
   
  </details>
 </details>
