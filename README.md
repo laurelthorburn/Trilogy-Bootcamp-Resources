@@ -266,7 +266,7 @@ ENTER STUFF HERE
  <details closed>
  <summary> Homework Resources</summary>
 
-[Social Network API]()
+[Social Network API](https://github.com/laurelthorburn/Workout-Tracker)
   
  </details>
 </details>
